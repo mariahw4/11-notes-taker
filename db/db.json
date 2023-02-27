@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Groceries","text":"Buy apples and carrots","id":"0"},{"title":"Remember for bday","text":"Pack kids and dinner!","id":"1"},{"title":"To-do","text":"clean kitchen and living room\n","id":"2"},{"title":"This is a new note","text":"Going to take a screenshot for the README"}]

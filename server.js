@@ -1,7 +1,4 @@
 const express = require("express");
-const db = require("./db/db.json");
-var path = require("path");
-
 const app = express();
 
 const PORT = process.env.PORT || 3001;
@@ -13,18 +10,17 @@ app.use(express.json());
 //Express will serve static files in public and data directories
 app.use(express.static('public'));
 
-app.get('/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, "./public/notes.html"))
-);
-
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, './public/index.html'));
-  });
+// connect to the routes
+require("./routes/apiRoutes")(app);
+require("./routes/htmlRoutes")(app);
 
 // Starts the server to begin listening
 app.listen(PORT, function () {
-    console.log("App listening on http://localhost: " + PORT);
+    console.log(`App listening on http://localhost:${PORT}`);
 });
+
+
+
 
 // // The application should have a db.json file on the back end that will be used to store and retrieve notes using the fs module.
 
