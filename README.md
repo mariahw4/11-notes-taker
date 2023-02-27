@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker App
 
 This is an app to take notes, have them store/save in a visible way and then also be able to delete them when desired. 
 
@@ -10,9 +10,8 @@ This is an app to take notes, have them store/save in a visible way and then als
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -40,23 +39,28 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Screenshot
 
-![locally deployed screenshot](./public/assets/image/screenshot-local.png)
+[locally deployed screenshot](./public/assets/image/screenshot-local.png)
 
 ### Links
 
-- Solution URL: [github pages](https://your-solution-url.com)
+- Solution URL: [github repository](https://github.com/mariahw4/11-notes-taker)
 - Live Site URL: [heroku](https://your-live-site-url.com)
 
 ## My process
 
-### Built with (including provided source code)
+### Built with
+ (including provided source code)
 
 - Semantic HTML5 markup
 - CSS custom properties
 - JavaScript
 - [Express](https://expressjs.com/) - framework for Node.js
 
+### What I learned
+
+  This project was very valuable for extending my understanding of GET and POST actions.  
+
 ## Author
 
-- Github - [Mariah Wear](https://github.com/mariahw4)
+- Github - [Profile](https://github.com/mariahw4)
 - LinkedIn - [Profile](https://www.linkedin.com/in/mariah-wear-7b1630255/)
