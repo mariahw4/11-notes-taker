@@ -39,7 +39,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Screenshot
 
-[locally deployed screenshot](./public/assets/image/screenshot-local.png)
+Screenshot of locally deployed project ![locally deployed screenshot](./public/assets/image/screenshot-local.png)
 
 ### Links
 
