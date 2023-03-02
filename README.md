@@ -41,6 +41,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Screenshot of locally deployed project ![locally deployed screenshot](./public/assets/image/screenshot-local.png)
 
+Screenshot of project deployed on Heroku ![Heroku deployed screenshot](./public/assets/image/screenshot-heroku.png)
+
+
 ### Links
 
 - Solution URL: [github repository](https://github.com/mariahw4/11-notes-taker)
