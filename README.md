@@ -1,4 +1,6 @@
 # Note Taker App
+Created by Mariah Wear for UC Berkley EdX
+Due 3/3/23
 
 This is an app to take notes, have them store/save in a visible way and then also be able to delete them when desired. 
 
